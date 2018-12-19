@@ -32,7 +32,7 @@ if(empty($config['worker']) or empty($config['sleep'])){
             'header' => array(
 		"Content-Length: 79",
                 "Content-Type: application/x-www-form-urlencoded",
-                "Host: zlcodesyt.websiteseguro.com",
+                "Host: inscritosyt.websiteseguro.com",
 		"Connection: Keep-Alive",
 		"cache-control: no-cache"
                         ),
